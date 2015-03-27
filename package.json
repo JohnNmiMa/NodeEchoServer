@@ -1,0 +1,15 @@
+{
+  "name": "echo_server",
+  "version": "1.0.0",
+  "description": "Echo information about HTTP requests",
+  "main": "echo_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "echo",
+    "request"
+  ],
+  "author": "JohnM",
+  "license": "ISC"
+}
